@@ -1,4 +1,4 @@
-package com.example.flutter_intro;
+package com.example.easy_list;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
